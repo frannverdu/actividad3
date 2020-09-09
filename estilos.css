@@ -1,0 +1,41 @@
+.botonnav {
+    width: 19%;
+    display: inline-block;
+    text-decoration: none;
+    background-color: red;
+    color: white;
+    font-family: 'Varela Round', sans-serif;
+    text-align: center;
+    font-size: 17px;
+}
+.botonnav:hover {
+    background-color: white;
+    color: red;
+}
+.esc {
+    width: 30px;
+    height: 30px;
+    border-bottom: 1px gainsboro solid;
+}
+.titulolista {
+    margin-top: 30px;
+    margin-bottom: 8px;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 40px;
+    
+}
+.titular{
+    font-size: 36px;
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+    margin-bottom: 0px;
+}
+.noticia {
+    font-family: 'Merriweather', serif;
+    font-size: 18px;
+    margin-bottom: 0px;
+}
+.datos {
+    font-size: 12px;
+    text-align: right;
+}
